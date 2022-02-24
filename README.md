@@ -1,1 +1,1 @@
-# E2_ExamenParcialPython
+# GBI6_ExamenPython
